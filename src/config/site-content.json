@@ -58,9 +58,16 @@
 		{
 			"id": "button-1772346711790",
 			"type": "wechat",
-			"value": "leishuo19142678907",
+			"value": "/images/social-buttons/6441c8951316d2a1.png",
 			"label": "",
 			"order": 3
+		},
+		{
+			"id": "button-1772346802647",
+			"type": "qq",
+			"value": "/images/social-buttons/838c879d77952f36.jpg",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
