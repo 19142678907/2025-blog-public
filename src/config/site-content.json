@@ -44,23 +44,23 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/lei-shuo",
 			"label": "Github",
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "lei-shuo@outlook.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1772346711790",
+			"type": "wechat",
+			"value": "leishuo19142678907",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": true,
