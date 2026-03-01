@@ -70,7 +70,7 @@
 			"order": 4
 		}
 	],
-	"clockShowSeconds": true,
+	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": true,
 	"hideEditButton": false,
