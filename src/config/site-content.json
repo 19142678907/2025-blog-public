@@ -1,8 +1,8 @@
 {
 	"meta": {
 		"title": "零时",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "没错就是我"
+		"description": "零の个人博客，基于vercel搭建，用于个人博客使用和存放笔记",
+		"username": "lingshi"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
